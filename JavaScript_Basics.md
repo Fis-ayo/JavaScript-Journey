@@ -19,7 +19,7 @@ Variable names and functions in JavaScript are case sensitive.
  2. __let:__ can only be used in the scope/block it is declared. Variables cannot be declared twice.
  3. __const__ variables are always constant.
  ### LET VS VAR
- _let_ does not allow to declare a variable twice, while _var_ does. It is advisable to use let as much as possible because was created recently and it fixes some quirks that var has. Throughou this lesson, we'll be using _var_ and this challenge I have for you is to try each code and trying to replace _var_ with _let_ and see how it can be used.
+ _let_ does not allow to declare a variable twice, while _var_ does. It is advisable to use let as much as possible because was created recently and it fixes some quirks that var has. Throughout this lesson, we'll be using _var_ and this challenge I have for you is to try each code and trying to replace _var_ with _let_ and see how it can be used.
  ```js
  function variableCompare(){
 
