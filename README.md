@@ -11,7 +11,7 @@ Welcome to this repository! 🚀 This project is dedicated to breaking down Java
 - **Web Development Usage** – How JavaScript interacts with HTML, CSS, and APIs.
 
 ## 📂 File Structure
-- [`javascript-basics.md`](./JavaScript-Basics.md) – Introduction to JavaScript fundamentals.
+- [`javascript-basics.md`](.JavaScript_Basics.md) – Introduction to JavaScript fundamentals.
 - [`javascript-advanced.md`](./javascript-advanced.md) – Deep dive into advanced JavaScript concepts.
 
 ## 🚀 Getting Started
