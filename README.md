@@ -19,5 +19,5 @@ Simply open the Markdown files above to start learning. Stay tuned for updates a
 
 ---
 
-If you're with me on the __JavaScript Journey__, be on a look out for the _REACT_ breakdown to **FUll STACK DEVELOPMENT***
+If you're with me on the __JavaScript Journey__, be on a look out for the _REACT_ breakdown to **FUll STACK DEVELOPMENT**
 Feel free inform me if you wish to suggest improvements or contribute! Happy coding! 🎉
