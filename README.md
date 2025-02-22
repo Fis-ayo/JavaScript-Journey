@@ -2,7 +2,8 @@
 
 # JavaScript Breakdown: From Basics to Advanced
 
-Welcome to this repository! 🚀 This project is dedicated to breaking down JavaScript, covering everything from fundamental concepts to advanced techniques, with a focus on its role in web development.
+Welcome to this repository! 🚀 This project is dedicated to breaking down JavaScript, covering everything from fundamental concepts to advanced techniques, with a focus on its role in web development.<br>
+JavaScript leans more on the client side with __React__ and server side with __Node.js__.
 
 ## 📖 What You'll Learn
 - **JavaScript Basics** – Variables, functions, loops, and more.
